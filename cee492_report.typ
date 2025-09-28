@@ -2,16 +2,17 @@
 
 #show: ieee.with(
   title: [Report Template],
+
   abstract: [
     This is where you put your abstract. Abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract abstract.
   ],
   authors: (
     (
-      name: "Author 1",
+      name: "Eshana Jain",
       department: [Department 1],
       organization: [University of Illinois Urbana-Champaign],
       location: [Urbana, IL, USA],
-      email: "author1@illinois.edu",
+      email: "jaineshana321@gmail.com",
     ),
     (
       name: "Author 2",
